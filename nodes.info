@@ -1,0 +1,4 @@
+nodes=<node01 ip> <node02 ip> <node03 ip>
+client=<client ip>
+domain=<example.com>
+ceph_repo=http://<ip>/ceph-6
